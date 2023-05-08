@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  font-size: 70px;
+  border-bottom: solid orange;
+}
+
+#logo{
+  margin-top: 50px;
+}
+
+#logo-img{
+  max-height: 400px;
+  max-width: 420px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+p{
+  background-color: lightslategray;
+  color: whitesmoke;
+  width: 420px;
+  height: 85px;
+  font-size: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 10px;
+}
+
